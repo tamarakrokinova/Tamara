@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetPatientProfile>
+<TransmitterModelNumber>EX1150</TransmitterModelNumber>
+<TransmitterSerialNumber>57547466</TransmitterSerialNumber>
+<TransmissionType>FUP</TransmissionType>
+<TimeofFollowup>20230201171707</TimeofFollowup>
+<TransmitterSWversion>EX2000 v8.3 PR_8.33</TransmitterSWversion>
+<ProfileVersion>8</ProfileVersion>
+</GetPatientProfile>
